@@ -1,0 +1,31 @@
+{
+    "git.ignoreLimitWarning": true,
+    "files.associations": {
+        "cmath": "cpp",
+        "iostream": "cpp",
+        "iomanip": "cpp",
+        "utility": "cpp",
+        "xtree": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "queue": "cpp",
+        "xstddef": "cpp",
+        "string": "cpp",
+        "algorithm": "cpp",
+        "tuple": "cpp",
+        "deque": "cpp",
+        "initializer_list": "cpp",
+        "type_traits": "cpp",
+        "xutility": "cpp",
+        "span": "cpp",
+        "ostream": "cpp",
+        "limits": "cpp",
+        "set": "cpp",
+        "xiosbase": "cpp",
+        "ranges": "cpp",
+        "sstream": "cpp",
+        "ios": "cpp",
+        "list": "cpp",
+        "xhash": "cpp"
+    }
+}
