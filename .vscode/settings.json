@@ -26,6 +26,11 @@
         "sstream": "cpp",
         "ios": "cpp",
         "list": "cpp",
-        "xhash": "cpp"
+        "xhash": "cpp",
+        "bitset": "cpp",
+        "random": "cpp",
+        "format": "cpp",
+        "stack": "cpp",
+        "map": "cpp"
     }
 }
